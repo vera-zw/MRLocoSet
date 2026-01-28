@@ -6,7 +6,7 @@ MRLocoSet: Simulation and experimental dataset for magnetic microroller locomoti
 - Simulation + Experiment: both simulated and real microroller locomotion data are provided.
 - Data-driven modeling oriented: each file includes state/control variables and dynamic linearization-related terms (e.g., φ matrix elements).
 - Obstacle environments: trajectories are collected in obstacle fields similar to the example shown below.
-![Obstacle environment example](docs/figures/obstacle_environment.png)
+[Obstacle environment example](docs/figures/obstacle_environment.png)
 If the image is not displayed, please check that it exists at:
 `docs/figures/obstacle_environment.png`
 
